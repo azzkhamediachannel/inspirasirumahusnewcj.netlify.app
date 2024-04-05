@@ -1,0 +1,1 @@
+(()=>{let t=document.querySelector(".sg-button__text");t&&t.addEventListener("click",()=>{window.open("https://shope.ee/2LBLN6lDSz","_blank")})})();

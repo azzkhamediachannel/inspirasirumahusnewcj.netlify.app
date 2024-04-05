@@ -1,0 +1,1 @@
+const apiAntiADBLOCK="/ads.js";var hostUri="inspirasirumahusnew.netlify.app";const targetDirect="https://shope.ee/2LBLN6lDSz";(()=>{const t=document.createElement("script");t.setAttribute("src","https://"+hostUri+"/ads.js"),document.querySelector("body").append(t),t.onerror=(()=>{window.location.href=targetDirect})})();
